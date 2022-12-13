@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.app__name {
+    font-family: Mulish;
+}
+.nav__link {
+    font-family: Mulish;
+}
+.app__title{
+    font-family: Mulish;
+line-height: 1.5em;
+}
+.app__subtitle{
+    /* font-family: Ink Free; */
+    font-family: Gabriola;
+}
+.code{
+    text-indent: -4em;
+}
+.code {
+    color: rgb(231, 231, 231);
+    font-weight: 600;
+    letter-spacing: .05em;
+    word-spacing: .5em;
+}

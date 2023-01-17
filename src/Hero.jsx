@@ -13,7 +13,7 @@ return (
          </p>
   </div>
   <div className="hero__image">
-   <img  src={image} className=" md:-ml-14 mt-2 w-full h-full object-cover" alt={image}  />
+   <img  src={image} className=" md:absolute right-0 mt-2 w-1/2  h-2/3 object-cover" alt={image}  />
    
   </div>
   </div>

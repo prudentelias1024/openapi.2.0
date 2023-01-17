@@ -1,9 +1,9 @@
 import { useEffect } from "react"
 
 const Navbar = () => {
-   useEffect(() => {
-      fetch('localhost:')
-   },[])
+  //  useEffect(() => {
+  //     fetch('localhost:')
+  //  },[])
     return (
         <div className="flex nav md:flex w-full justify-between p-6 px-32 z-0">
         <div className="logo">
